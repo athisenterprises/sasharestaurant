@@ -796,7 +796,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-rOu7bJHnVt .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 8rem);
+    max-height: calc(98.5vh - 5.6rem);
   }
 }
 .cid-rOu7bJHnVt .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1036,7 +1036,7 @@ a {
   }
 }
 .cid-rOu7bbnZ2z {
-  padding-top: 210px;
+  padding-top: 90px;
   padding-bottom: 105px;
   background-color: #e7272d;
 }
@@ -1122,7 +1122,7 @@ a {
   }
 }
 .cid-rOujMYGBMo {
-  padding-top: 120px;
+  padding-top: 30px;
   padding-bottom: 135px;
   background-color: #ffffff;
 }
