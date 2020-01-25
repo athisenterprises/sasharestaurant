@@ -795,7 +795,7 @@ a {
 }
 @media (min-width: 992px) {
   .cid-rOu7bJHnVt .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 5.6rem);
+    max-height: calc(98.5vh - 3.8rem);
   }
 }
 .cid-rOu7bJHnVt .navbar.collapsed .dropdown-menu .dropdown-submenu {
@@ -1034,8 +1034,13 @@ a {
     left: -1rem;
   }
 }
+.cid-rOBRMq7gD6 {
+  padding-top: 15px;
+  padding-bottom: 0px;
+  background-color: #e7272d;
+}
 .cid-rOu7bbnZ2z {
-  padding-top: 195px;
+  padding-top: 45px;
   padding-bottom: 105px;
   background-color: #e7272d;
 }
