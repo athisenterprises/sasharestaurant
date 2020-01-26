@@ -554,7 +554,7 @@
               "text-align": "left"
             },
             "img": {
-              "max-width": "500px",
+              "max-width": "470px",
               "margin": "auto"
             },
             ".mbr-section-subtitle, .title-align": {
