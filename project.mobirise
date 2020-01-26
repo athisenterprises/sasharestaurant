@@ -45,9 +45,9 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "@media screen and (max-width: 667px) {\nbody {\noverflow-x: hidden !important;\n}\n.container {\nmax-width: 100% !important;\noverflow-x: hidden !important;\n}\n}",
+        "header_custom": "",
         "footer_custom": "",
-        "html_before": ""
+        "html_before": "<meta name=\"viewport\" content=\"width=device-width; initial-scale = 1.0;\nmaximum-scale=1.0; user-scalable=no\" />\n\n<style type=\"text/css\">\n\n@media screen and (max-width: 667px) {\nbody {\noverflow-x: hidden !important;\n}\n.container {\nmax-width: 100% !important;\noverflow-x: hidden !important;\n}\n}\n</style>"
       },
       "components": [
         {
