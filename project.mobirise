@@ -45,7 +45,7 @@
         "main": true,
         "title": "Home",
         "meta_descr": "",
-        "header_custom": "",
+        "header_custom": "@media screen and (max-width: 667px) {\nbody {\noverflow-x: hidden !important;\n}\n.container {\nmax-width: 100% !important;\noverflow-x: hidden !important;\n}\n}",
         "footer_custom": "",
         "html_before": ""
       },
